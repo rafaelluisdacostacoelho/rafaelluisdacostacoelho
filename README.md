@@ -1,4 +1,8 @@
-### Welcome, my name is Rafael, it's a pleasure to see you here. 👋
+Hi, I'm Rafael, a programmer with 12 years of experience in developing software solutions that drive results. I specialize in web applications and have a strong focus on delivering efficient, scalable, and business-focused solutions.
+
+I'm passionate about solving complex problems creatively and working with cross-functional teams to achieve impactful outcomes. I'm also committed to continuous learning and staying up-to-date with the latest trends in technology.
+
+I look forward to applying my skills to new challenges and contributing to meaningful projects.
 
 <div align="left">
   <a href="https://github.com/rafaelluisdacostacoelho">
